@@ -10,6 +10,7 @@
 | **Editor**  | `Vscode` , `Atom` |
 | **Platforms I develop for** | `Desktop` , `CLI`|
 | *Languages I Know* | `Python` , `Javascript`|  
+
 ```python
 
 def text(txt):
@@ -28,3 +29,6 @@ ______ ___.__. /  _  \_______   _____/ ____\
 
 ```
 
+Contact Me : 
+ [Telegram](t.me/ClassNameError)
+ [Stackoverflow](https://stackoverflow.com/users/15554738/nextc-roundt?tab=profile)
