@@ -30,5 +30,5 @@ ______ ___.__. /  _  \_______   _____/ ____\
 ```
 
 Contact Me : 
- [Telegram](t.me/ClassNameError)
- [Stackoverflow](https://stackoverflow.com/users/15554738/nextc-roundt?tab=profile)
+ [Telegram](https://t.me/ClassNameError)
+ [Stackoverflow](https://stackoverflow.com/users/15554738/aref-rasti?tab=profile)
