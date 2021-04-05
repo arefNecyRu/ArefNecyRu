@@ -1,5 +1,6 @@
-### Hi programmers ⌨️
+### Hi Dev's ⌨️
 
+<img src="head.gif">
 <!--
 **arefNecyRu/ArefNecyRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
