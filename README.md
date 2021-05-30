@@ -1,7 +1,6 @@
 ### Hello World ! 🌏
 
 ##
-![pyAref GitHub stats](https://github-readme-stats.vercel.app/api?username=pyAref&show_icons=true&theme=dracula)
 ![Metrics](https://metrics.lecoq.io/pyAref?template=classic&config.timezone=Asia%2FTehran)
 
 | Question   | Answer |
