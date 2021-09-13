@@ -8,7 +8,7 @@
 | **My Computer**  | `Asus K556U` |
 | **Editor**  | `Vscode` , `Atom` |
 | **Platforms I develop for** | `Desktop` , `CLI`|
-| *Languages I Know* | `Python` , `Javascript`|  
+| *Languages I Know* | `JavaScript` , `Python`|  
 
 
 Contact Me : 
