@@ -10,24 +10,6 @@
 | **Platforms I develop for** | `Desktop` , `CLI`|
 | *Languages I Know* | `Python` , `Javascript`|  
 
-```python
-
-def text(txt):
-    return print(txt)
-
-username_telegram = "@ClassNameError"
-text('''
-██████╗░██╗░░░██╗░█████╗░██████╗░███████╗███████╗
-██╔══██╗╚██╗░██╔╝██╔══██╗██╔══██╗██╔════╝██╔════╝
-██████╔╝░╚████╔╝░███████║██████╔╝█████╗░░█████╗░░
-██╔═══╝░░░╚██╔╝░░██╔══██║██╔══██╗██╔══╝░░██╔══╝░░
-██║░░░░░░░░██║░░░██║░░██║██║░░██║███████╗██║░░░░░
-╚═╝░░░░░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░░░░
-\n\n
-{}
-'''.format(username_telegram))
-
-```
 
 Contact Me : 
  [Telegram](https://t.me/ClassNameError)
