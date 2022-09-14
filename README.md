@@ -5,12 +5,11 @@
 
 | Question   | Answer |
 | ------------- | ------------- |
-| **My Computer**  | `Asus K556U` |
-| **Editor**  | `Vscode` , `Atom` |
-| **Platforms I develop for** | `Desktop` , `CLI`|
+| **Editor**  | `Vscode` , `Vim` |
+| **Platforms I develop for** | `Desktop` , `Backend`, 'CLI'| 
 | *Languages I Know* | `JavaScript` , `Python`|  
 
 
 Contact Me : 
  [Stackoverflow](https://stackoverflow.com/users/15554738/aref-rasti?tab=profile)
- [Telegram](https://t.me/Arefizi)
+ [Telegram](https://t.me/Arefinit)
