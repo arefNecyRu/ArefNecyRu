@@ -1,13 +1,10 @@
-### Hi 
-
-##
-![Metrics](https://metrics.lecoq.io/pyAref?template=classic&config.timezone=Asia%2FTehran)
+# Hello World
 
 | Question   | Answer |
 | ------------- | ------------- |
 | **Editor**  | `Vscode` , `Vim` |
 | **Platforms I develop for** | `Desktop` , `Backend`, 'CLI'| 
-| *Languages I Know* | `JavaScript` , `Python`|  
+| *Languages I Know* | `Nodejs`, 'C/C++' , `Python`|  
 
 
 Contact Me : 
